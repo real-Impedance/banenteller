@@ -88,9 +88,9 @@ F5 "10V" I R 2000 1400 60
 F6 "EN10V" I L 1250 1400 60 
 $EndSheet
 $Sheet
-S 8100 3500 850  900 
-U 5AC2590A
-F0 "modules" 60
-F1 "modules.sch" 60
+S 8200 3650 1000 750 
+U 5AC2695F
+F0 "peripherals" 60
+F1 "peripherals.sch" 60
 $EndSheet
 $EndSCHEMATC

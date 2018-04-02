@@ -127,12 +127,4 @@ Wire Wire Line
 	2900 3050 2750 3050
 Wire Wire Line
 	2750 3050 2750 2950
-Text HLabel 2750 1950 0    60   Input ~ 0
-TX
-Text HLabel 2750 2050 0    60   Input ~ 0
-RX
-Wire Wire Line
-	2750 2050 2900 2050
-Wire Wire Line
-	2900 1950 2750 1950
 $EndSCHEMATC
